@@ -18,3 +18,13 @@ C:\Users\student\LV2\LV2\obj\Debug\LV2.csproj.GenerateResource.cache
 C:\Users\student\LV2\LV2\obj\Debug\LV2.csproj.CoreCompileInputs.cache
 C:\Users\student\LV2\LV2\obj\Debug\LV2.exe
 C:\Users\student\LV2\LV2\obj\Debug\LV2.pdb
+C:\Users\Luka\Desktop\OPlv-main\bin\Debug\LV2.exe.config
+C:\Users\Luka\Desktop\OPlv-main\bin\Debug\LV2.exe
+C:\Users\Luka\Desktop\OPlv-main\bin\Debug\LV2.pdb
+C:\Users\Luka\Desktop\OPlv-main\obj\Debug\LV2.csprojAssemblyReference.cache
+C:\Users\Luka\Desktop\OPlv-main\obj\Debug\LV2.Form1.resources
+C:\Users\Luka\Desktop\OPlv-main\obj\Debug\LV2.Properties.Resources.resources
+C:\Users\Luka\Desktop\OPlv-main\obj\Debug\LV2.csproj.GenerateResource.cache
+C:\Users\Luka\Desktop\OPlv-main\obj\Debug\LV2.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\OPlv-main\obj\Debug\LV2.exe
+C:\Users\Luka\Desktop\OPlv-main\obj\Debug\LV2.pdb
